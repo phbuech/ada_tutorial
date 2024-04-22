@@ -19,9 +19,9 @@ and the terminal in Mac should look like this:
 
 If you use windows, you can enter "Anaconda prompt" in the search bar and you can open an anaconda terminal then:
 
+![title](imgs/Screenshot_windows_search_anaconda_prompt.png)
 
-
-
+![title](imgs/Screenshot_windows_prompt.png)
 
 ## 2. Get a copy of ADA
 
